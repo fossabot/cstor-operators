@@ -2,6 +2,7 @@
 [![Go](https://github.com/openebs/cstor-operators/workflows/Go/badge.svg)](https://github.com/openebs/cstor-operators/actions)
 [![Build Status](https://travis-ci.org/openebs/cstor-operators.svg?branch=master)](https://travis-ci.org/openebs/cstor-operators)
 [![Slack](https://img.shields.io/badge/JOIN-SLACK-blue)](https://kubernetes.slack.com/messages/openebs/)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fkmova%2Fcstor-operators.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fkmova%2Fcstor-operators?ref=badge_shield)
 
 <img width="300" align="right" alt="OpenEBS Logo" src="https://raw.githubusercontent.com/cncf/artwork/master/projects/openebs/stacked/color/openebs-stacked-color.png" xmlns="http://www.w3.org/1999/html">
 
@@ -80,3 +81,7 @@ Please read the community code of conduct [here](./CODE_OF_CONDUCT.md).
 [Go environment]: https://golang.org/doc/install
 [openebs/openebs]: https://github.com/openebs/openebs
 [channel]: https://kubernetes.slack.com/messages/openebs/
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fkmova%2Fcstor-operators.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fkmova%2Fcstor-operators?ref=badge_large)
